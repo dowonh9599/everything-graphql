@@ -10,3 +10,10 @@
     movieLiked: [Movie]
     latestMovie(id: ID!): Movie
   }
+
+  type Movie {
+    id: ID!
+    name: String!
+    year: Int!
+    isInTheater: Boolean!
+  }
