@@ -21,6 +21,31 @@ const typeDefs = gql`
     isInTheater: Boolean!
   }
 
+  type Query {
+    users: [User!]
+    user(id: ID!): User
+    movies: [Movie!]
+    movie(name: String!): Movie
+  }
+  input CreateUserInput {
+    name: String!
+    username: String!
+    age: Int = 18
+    height: Float!
+    isMarried: Boolean
+    nationality: String
+  }
+
+  input UpdateUsernameInput {
+    id: ID!
+    newUsername: String!
+  }
+
+  type Mutation {
+    createUser(input: CreateUserInput!): User
+    updateUsername(input: UpdateUsernameInput!): User
+    deleteUser(id: ID!): [User!]
+  }
 `;
 
 export { typeDefs };
