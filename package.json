@@ -1,0 +1,13 @@
+{
+  "name": "everything-graphql-nodejs",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p .",
+    "dev": "nodemon server/index.ts",
+    "prod": "nodemon server/index.ts",
+    "start": "yarn run build && node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+}
