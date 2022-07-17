@@ -1,0 +1,471 @@
+[
+  {
+    "id": 1,
+    "name": "Zeb",
+    "username": "zeb123",
+    "age": 46,
+    "height": 187.7,
+    "isMarried": true,
+    "nationality": "Mongolia",
+    "friends": [
+      {
+        "id": 2,
+        "name": "Lucila",
+        "age": 51,
+        "height": 160.1,
+        "isMarried": true,
+        "nationality": "Brazil"
+      },
+      {
+        "id": 6,
+        "name": "Tamar",
+        "age": 55,
+        "height": 187.0,
+        "isMarried": true,
+        "nationality": "Peru"
+      }
+    ],
+    "movieLiked": [
+      {
+        "id": 7,
+        "name": "Our Man in Havana",
+        "year": 1996,
+        "isInTheater": false
+      },
+      {
+        "id": 10,
+        "name": "After the Sunset",
+        "year": 2008,
+        "isInTheater": true
+      },
+      {
+        "id": 9,
+        "name": "Everyday Sunshine:  The Story of Fishbone",
+        "year": 2010,
+        "isInTheater": true
+      },
+      {
+        "id": 6,
+        "name": "Housemaid, The (Hanyo)",
+        "year": 1999,
+        "isInTheater": false
+      },
+      { "id": 3, "name": "The Adventurers", "year": 2011, "isInTheater": true }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Lucila",
+    "username": "lucila999",
+    "age": 51,
+    "height": 160.1,
+    "isMarried": true,
+    "nationality": "Brazil",
+    "friends": [
+      {
+        "id": 1,
+        "name": "Zeb",
+        "age": 46,
+        "height": 187.7,
+        "isMarried": true,
+        "nationality": "Mongolia"
+      },
+      {
+        "id": 3,
+        "name": "Alina",
+        "age": 23,
+        "height": 174.3,
+        "isMarried": false,
+        "nationality": "Indonesia"
+      }
+    ],
+    "movieLiked": [
+      { "id": 1, "name": "Paziraie Sadeh", "year": 2003, "isInTheater": true },
+      {
+        "id": 5,
+        "name": "Nosferatu the Vampyre (Nosferatu: Phantom der Nacht)",
+        "year": 2001,
+        "isInTheater": true
+      },
+      {
+        "id": 7,
+        "name": "Our Man in Havana",
+        "year": 1996,
+        "isInTheater": false
+      },
+      { "id": 8, "name": "Kansas Raiders", "year": 2010, "isInTheater": false },
+      {
+        "id": 9,
+        "name": "Everyday Sunshine:  The Story of Fishbone",
+        "year": 2010,
+        "isInTheater": true
+      },
+      {
+        "id": 10,
+        "name": "After the Sunset",
+        "year": 2008,
+        "isInTheater": true
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alina",
+    "username": "alina777",
+    "age": 23,
+    "height": 174.3,
+    "isMarried": false,
+    "nationality": "Indonesia",
+    "friends": [
+      {
+        "id": 2,
+        "name": "Lucila",
+        "age": 51,
+        "height": 160.1,
+        "isMarried": true,
+        "nationality": "Brazil"
+      },
+      {
+        "id": 4,
+        "name": "Brenda",
+        "age": 43,
+        "height": 180.9,
+        "isMarried": false,
+        "nationality": "Mexico"
+      },
+      {
+        "id": 5,
+        "name": "Massimo",
+        "age": 36,
+        "height": 188.3,
+        "isMarried": false,
+        "nationality": "China"
+      },
+      {
+        "id": 7,
+        "name": "Hasty",
+        "age": 58,
+        "height": 165.8,
+        "isMarried": false,
+        "nationality": "Brazil"
+      }
+    ],
+    "movieLiked": [
+      { "id": 1, "name": "Paziraie Sadeh", "year": 2003, "isInTheater": true },
+      {
+        "id": 5,
+        "name": "Nosferatu the Vampyre (Nosferatu: Phantom der Nacht)",
+        "year": 2001,
+        "isInTheater": true
+      },
+      {
+        "id": 7,
+        "name": "Our Man in Havana",
+        "year": 1996,
+        "isInTheater": false
+      },
+      { "id": 8, "name": "Kansas Raiders", "year": 2010, "isInTheater": false }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Brenda",
+    "username": "bren123da",
+    "age": 43,
+    "height": 180.9,
+    "isMarried": false,
+    "nationality": "Mexico",
+    "friends": [
+      {
+        "id": 3,
+        "name": "Alina",
+        "age": 23,
+        "height": 174.3,
+        "isMarried": false,
+        "nationality": "Indonesia"
+      }
+    ],
+    "movieLiked": [
+      { "id": 8, "name": "Kansas Raiders", "year": 2010, "isInTheater": false },
+      {
+        "id": 7,
+        "name": "Our Man in Havana",
+        "year": 1996,
+        "isInTheater": false
+      },
+      {
+        "id": 6,
+        "name": "Housemaid, The (Hanyo)",
+        "year": 1999,
+        "isInTheater": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Massimo",
+    "username": "immassi123",
+    "age": 36,
+    "height": 188.3,
+    "isMarried": false,
+    "nationality": "China",
+    "friends": [
+      {
+        "id": 3,
+        "name": "Alina",
+        "age": 23,
+        "height": 174.3,
+        "isMarried": false,
+        "nationality": "Indonesia"
+      },
+      {
+        "id": 7,
+        "name": "Hasty",
+        "age": 58,
+        "height": 165.8,
+        "isMarried": false,
+        "nationality": "Brazil"
+      },
+      {
+        "id": 9,
+        "name": "Quintilla",
+        "age": 41,
+        "height": 164.0,
+        "isMarried": true,
+        "nationality": "Croatia"
+      }
+    ],
+    "movieLiked": [
+      { "id": 3, "name": "The Adventurers", "year": 2011, "isInTheater": true },
+      { "id": 8, "name": "Kansas Raiders", "year": 2010, "isInTheater": false },
+      {
+        "id": 9,
+        "name": "Everyday Sunshine:  The Story of Fishbone",
+        "year": 2010,
+        "isInTheater": true
+      },
+      {
+        "id": 10,
+        "name": "After the Sunset",
+        "year": 2008,
+        "isInTheater": true
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Tamar",
+    "username": "tamar321",
+    "age": 55,
+    "height": 187.0,
+    "isMarried": true,
+    "nationality": "Peru",
+    "friends": [
+      {
+        "id": 1,
+        "name": "Zeb",
+        "age": 46,
+        "height": 187.7,
+        "isMarried": true,
+        "nationality": "Mongolia"
+      },
+      {
+        "id": 9,
+        "name": "Quintilla",
+        "age": 41,
+        "height": 164.0,
+        "isMarried": true,
+        "nationality": "Croatia"
+      }
+    ],
+    "movieLiked": [
+      { "id": 2, "name": "Courageous", "year": 1997, "isInTheater": false },
+      { "id": 8, "name": "Kansas Raiders", "year": 2010, "isInTheater": false },
+      {
+        "id": 10,
+        "name": "After the Sunset",
+        "year": 2008,
+        "isInTheater": true
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Hasty",
+    "username": "gohastygo123",
+    "age": 58,
+    "height": 165.8,
+    "isMarried": false,
+    "nationality": "Brazil",
+    "friends": [
+      {
+        "id": 3,
+        "name": "Alina",
+        "age": 23,
+        "height": 174.3,
+        "isMarried": false,
+        "nationality": "Indonesia"
+      },
+      {
+        "id": 5,
+        "name": "Massimo",
+        "age": 36,
+        "height": 188.3,
+        "isMarried": false,
+        "nationality": "China"
+      },
+      {
+        "id": 8,
+        "name": "Jami",
+        "age": 38,
+        "height": 189.5,
+        "isMarried": true,
+        "nationality": "Peru"
+      }
+    ],
+    "movieLiked": [
+      { "id": 1, "name": "Paziraie Sadeh", "year": 2003, "isInTheater": true },
+      { "id": 2, "name": "Courageous", "year": 1997, "isInTheater": false },
+      {
+        "id": 4,
+        "name": "St. Francisville Experiment, The",
+        "year": 2010,
+        "isInTheater": false
+      },
+      {
+        "id": 7,
+        "name": "Our Man in Havana",
+        "year": 1996,
+        "isInTheater": false
+      },
+      {
+        "id": 9,
+        "name": "Everyday Sunshine:  The Story of Fishbone",
+        "year": 2010,
+        "isInTheater": true
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Jami",
+    "username": "jam56",
+    "age": 38,
+    "height": 189.5,
+    "isMarried": true,
+    "nationality": "Peru",
+    "friends": [
+      {
+        "id": 6,
+        "name": "Housemaid, The (Hanyo)",
+        "year": 1999,
+        "isInTheater": false
+      },
+      {
+        "id": 7,
+        "name": "Hasty",
+        "age": 58,
+        "height": 165.8,
+        "isMarried": false,
+        "nationality": "Brazil"
+      }
+    ],
+    "movieLiked": [
+      { "id": 2, "name": "Courageous", "year": 1997, "isInTheater": false },
+      {
+        "id": 7,
+        "name": "Our Man in Havana",
+        "year": 1996,
+        "isInTheater": false
+      },
+      {
+        "id": 10,
+        "name": "After the Sunset",
+        "year": 2008,
+        "isInTheater": true
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Quintilla",
+    "username": "quintis5",
+    "age": 41,
+    "height": 164.0,
+    "isMarried": true,
+    "nationality": "Croatia",
+    "friends": [
+      {
+        "id": 5,
+        "name": "Massimo",
+        "age": 36,
+        "height": 188.3,
+        "isMarried": false,
+        "nationality": "China"
+      },
+      {
+        "id": 6,
+        "name": "Tamar",
+        "age": 55,
+        "height": 187.0,
+        "isMarried": true,
+        "nationality": "Peru"
+      }
+    ],
+    "movieLiked": [
+      { "id": 1, "name": "Paziraie Sadeh", "year": 2003, "isInTheater": true },
+
+      { "id": 2, "name": "Courageous", "year": 1997, "isInTheater": false },
+      {
+        "id": 4,
+        "name": "St. Francisville Experiment, The",
+        "year": 2010,
+        "isInTheater": false
+      },
+      {
+        "id": 10,
+        "name": "After the Sunset",
+        "year": 2008,
+        "isInTheater": true
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Barris",
+    "username": "dontcallmebarry",
+    "age": 50,
+    "height": 180.8,
+    "isMarried": true,
+    "nationality": "Brazil",
+    "friends": [],
+    "movieLiked": [
+      { "id": 2, "name": "Courageous", "year": 1997, "isInTheater": false },
+      {
+        "id": 4,
+        "name": "St. Francisville Experiment, The",
+        "year": 2010,
+        "isInTheater": false
+      },
+      {
+        "id": 6,
+        "name": "Housemaid, The (Hanyo)",
+        "year": 1999,
+        "isInTheater": false
+      },
+
+      {
+        "id": 7,
+        "name": "Our Man in Havana",
+        "year": 1996,
+        "isInTheater": false
+      },
+      {
+        "id": 9,
+        "name": "Everyday Sunshine:  The Story of Fishbone",
+        "year": 2010,
+        "isInTheater": true
+      }
+    ]
+  }
+]
